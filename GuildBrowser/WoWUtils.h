@@ -12,6 +12,7 @@ extern NSString * const WowClassTypeWarlock;
 extern NSString * const WowClassTypeMonk;
 extern NSString * const WowClassTypeDruid;
 
+
 extern NSString * const WowRaceNameHuman;
 extern NSString * const WowRaceNameOrc;
 extern NSString * const WowRaceNameDwarf;
